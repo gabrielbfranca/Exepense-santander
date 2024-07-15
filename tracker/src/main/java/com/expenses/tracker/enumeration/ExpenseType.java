@@ -12,7 +12,7 @@ public enum ExpenseType {
     PRODUCTS("p"),
     STREAM("s"),
     RESTAURANT("r"),
-    LEIRURE("l");
+    LEISURE("l");
 
     private final String code;
 
